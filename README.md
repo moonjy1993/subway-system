@@ -1,4 +1,4 @@
-This is a program which shows the fastest path(or route) of stations when you give the input of depart and arrival station, and is written in Java.
+This is a program which shows the fastest path(or route) of stations when you give the input of depart and arrival station, and is written in Java during my gap semester in Korea in November, 2014.
 Implemented with Dijkstra's Algorithm with the Korean Subway Data System from Seoul University Research Lab website.
 *Since the datas were in Korean, only the inputs of Korean can be received and the outputs will show in Korean as well.
 
